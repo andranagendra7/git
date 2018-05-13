@@ -240,3 +240,38 @@
   240  cls
   241  clear
   242  history | tee gitcommands.txt 
+  243  clear
+  244  git stutus
+  245  git status
+  246  git  add .
+  247  git commit -m "add new file's " 
+  248  git diff
+  249  git diff n
+  250  git diff gitcommands.txt
+  251  git remote 
+  252  git remote  -v
+  253  git pull
+  254  git pull git1
+  255  git pull git1
+  256  ls
+  257  git pull git1 master
+  258  git pull git1 master --unrelated-histories
+  259  git pull git1 master --allow-unrelated-histories
+  260  ls
+  261  cat t 
+  262  git diff t
+  263  git status
+  264  cat >>t
+  265  git status
+  266  cat t
+  267  git diff t
+  268  git add t
+  269  git diff t
+  270  git diff t --stage
+  271  git diff --stage t
+  272  git diff -stage t
+  273  git diff -staged t
+  274  git diff --staged 
+  275  git diff --cachd
+  276  git diff --cached
+  277  history | tee gitcommands.txt 
