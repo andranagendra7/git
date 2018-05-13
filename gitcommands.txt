@@ -189,3 +189,54 @@
   189  git
   190  history
   191  history | tee gitcommands.txt
+  192  ls
+  193  git status
+  194  git add .
+  195  git status
+  196  git reset Head t
+  197  git reset Head --t
+  198  git rm --cached t
+  199  git status -s
+  200  git status 
+  201  git add .
+  202  git commit -m "gitcommand filename add"
+  203  git remote
+  204  git remote add git https://github.com/andranagendra7/git.git
+  205  git remote 
+  206  git remote  -v
+  207  git remote  rename git git1
+  208  git remote  -v
+  209  git status
+  210  ssh-keygen
+  211  cc:
+  212  c:
+  213  cd ..
+  214  cd ..
+  215  cd ..
+  216  ls
+  217  cd Nagendra/
+  218  ls
+  219  ls -a
+  220  cd 
+  221  cd ..
+  222  ssh-keygen
+  223  git status
+  224  git log
+  225  ls
+  226  touch n
+  227  git status
+  228  cat >>t
+  229  git status
+  230  git add t
+  231  git status
+  232  git status -s
+  233  git commit
+  234  git log
+  235  git status -s
+  236  git commit -m "secon commit"
+  237  git logs
+  238* git 
+  239  git show ae5bfa12eb5ad1943a63cf84560ebd543570c953
+  240  cls
+  241  clear
+  242  history | tee gitcommands.txt 
